@@ -1,1 +1,1 @@
-This readme is here for reasons.
+This is our COMP 1930 project. We are group 21. We are using gitHub for the first time.
